@@ -7,3 +7,6 @@ h1{
 .mango-color{
     color: crimson;
 }
+section{
+    display: flex;
+}
